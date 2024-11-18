@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ymmreza16
 - 👀 I’m interested in advancing my web design skills while exploring emerging technologies like artificial intelligence, network security, and cryptocurrency.
-- 🌱 I’m currently learning CCNA / Rust  ...
+- 🌱 I’m currently learning TypeScript / Vercel / ReactJS And Professional WordPress Plugin Development  ...
 - 💞️ I'm looking to collaborate on developing and designing innovative WordPress plugins that enhance user experience and contribute to the WordPress community.
 - 📫 Email Me at: ymreza16@yahoo.com
 - 💬 Text Me in Telegram: https://t.me/ymreza16
